@@ -1,0 +1,8 @@
+Put creator photos in this folder.
+
+Name each file after the creator, as in the save_as column of photo-checklist.csv, for example:
+  Ankur Warikoo @ankurwarikoo.jpg
+  Dhruv Rathee #r072.jpg
+Just the handle also works: ankurwarikoo.jpg
+
+JPG, PNG and WebP all work. Refresh the website to see new photos.
